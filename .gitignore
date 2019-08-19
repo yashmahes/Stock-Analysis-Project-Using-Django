@@ -1,0 +1,3 @@
+*.pyc
+Nvstrr/db.sqlite3
+Nvstrr/graphweb/db.sqlite3

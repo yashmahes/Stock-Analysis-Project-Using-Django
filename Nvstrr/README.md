@@ -1,6 +1,3 @@
-# Stock-Analysis-Project-Using-Django
-Stock Analysis Project Using Django
-
 # Nvstrr
 Virtual stock trading website made using Django.
 
